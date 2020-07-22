@@ -1,0 +1,62 @@
+#all{
+	padding-top: 10px;
+	height:1050px;
+	width:1000px;
+	background-color: antiquewhite;
+}
+.header .logo{
+	width:300px;
+	height: 200px;
+	background-color: darkgrey;
+	float:left;
+}
+.header .banner{
+	width: 680px;
+	height: 200px;
+	background-color: darkgrey;
+	float:right;
+}
+.menu{
+	width:995px;
+	height:50px;
+	float:right;
+	margin-top: 10px;
+	border: solid
+}
+.content .left{
+	margin-top: 15px;
+	width:675px;
+	height:600px;
+	background-color: darkgrey;
+	float:left;
+}
+.content .right{
+	background-color: darkgrey;
+	width:300px;
+	height:600px;
+	float:right;
+	margin-top: 15px;
+}
+.footer{
+	background-color: darkgrey;
+	width:1000px;
+	height:150px;
+	float:left;
+	margin-top: 15px;
+}
+.text{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+}
+.content .text{
+	line-height: 600px;
+}
+.menu .text{
+	line-height: 10px
+}
+.footer .text{
+	line-height: 150px;
+}
+.header .text{
+	line-height: 150px;
+}
